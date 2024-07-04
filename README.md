@@ -87,6 +87,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
   - Veoci
   - CrowdStrike
   - Wiz
+  - BitSight
   - OneTrust
   - AWS
   - Datadog
