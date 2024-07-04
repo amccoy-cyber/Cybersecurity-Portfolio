@@ -27,7 +27,7 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
     - Understanding of security operations and application security
 
 - **AWS Certified Cloud Practitioner**
-  - [Month, Year] - [Link to verification](#) *(Replace with actual link)*
+  - **Issued**: May 2024 | [https://aws.amazon.com/certification/certified-cloud-practitioner/]
   - **Skills:**
     - AWS Cloud concepts and core services
     - Cloud security and compliance principles
