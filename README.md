@@ -19,7 +19,7 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
   - [May, 2024]
  
 - **ISC² Certified in Cybersecurity (CC)**
-  - March 2024 - [https://www.isc2.org/certifications/cc](#)
+  - **Issued**: [Month, Year] | [https://www.isc2.org/certifications/cc]
   - **Skills:** 
     - Fundamental concepts in cybersecurity
     - Security principles and best practices
