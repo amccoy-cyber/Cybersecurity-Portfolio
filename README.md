@@ -119,7 +119,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
   - Successfully completed multiple CTF challenges covering a range of cybersecurity topics.
   - Applied knowledge of networking, cryptography, and web security to solve challenges.
   - Improved problem-solving skills and critical thinking in real-world scenarios.
-- **Link to Profile:** [TryHackMe Profile](https://tryhackme.com/p/mccoygolfer](https://tryhackme.com/p/amccoycyber))
+- **Link to Profile:** [TryHackMe Profile](https://tryhackme.com/p/amccoycyber)
 
 ---
 
