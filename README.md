@@ -137,7 +137,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
     - _**Foundations of Design:** Applied engineering theory to solve real-world problems through project work._
     - _**Computer Architecture:** Studied the design, function, and optimization of computer systems._
 
-- **Associate of Science in Electro-Mechanical Engineering Technology**
+- **Associate of Science (A.S.) in Electro-Mechanical Engineering Technology**
   - **Zane Stae College (ZSC), August 2017 - May 2019**
 
 ---
