@@ -112,8 +112,8 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
 ## 📚 Education
 
 - **Bachelor of Science (B.S.) in Computer Engineering**
-  - Ohio Northern University (ONU), May 2023
-  - **Relevant Coursework:**
+  - **Ohio Northern University (ONU), May 2023**
+  - _**Relevant Coursework:**_
     - **Computer Security:** Covered cryptographic principles, CIA triad, and threat modeling.
     - **Networks and Data Communication:** Studied network protocols, security, and wireless communication.
     - **Data Mining:** Focused on data analysis, pattern recognition, and machine learning techniques.
