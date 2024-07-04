@@ -12,12 +12,6 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
 
 ## 🎓 Certifications
 
-- **ISC2 Certified in Cybersecurity**
-  - [March, 2024]
-
-- **AWS Certified Cloud Practitioner (CCP)**
-  - [May, 2024]
- 
 - **ISC² Certified in Cybersecurity (CC)**
   - **Issued**: March 2024 | [https://www.isc2.org/certifications/cc]
   - **Skills:** 
@@ -26,7 +20,7 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
     - Basics of risk management and incident response
     - Understanding of security operations and application security
 
-- **AWS Certified Cloud Practitioner**
+- **AWS Certified Cloud Practitioner (AWS CCP)**
   - **Issued**: May 2024 | [https://aws.amazon.com/certification/certified-cloud-practitioner/]
   - **Skills:**
     - AWS Cloud concepts and core services
