@@ -12,17 +12,11 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
 
 ## 🎓 Certifications
 
-- **Certified Information Systems Security Professional (CISSP)**
-  - [Month, Year] - [Link to verification if available]
+- **ISC2 Certified in Cybersecurity**
+  - [March, 2024]
 
-- **Certified Ethical Hacker (CEH)**
-  - [Month, Year] - [Link to verification if available]
-
-- **CompTIA Security+**
-  - [Month, Year] - [Link to verification if available]
-
-- **[Any other relevant certifications]**
-  - [Month, Year] - [Link to verification if available]
+- **AWS Certified Cloud Practitioner (CCP)**
+  - [May, 2024]
 
 ---
 
