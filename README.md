@@ -112,7 +112,7 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
 ## 📚 Education
 
 - **Bachelor of Science (B.S.) in Computer Engineering**
-  - **Ohio Northern University (ONU), May 2023**
+  - **Ohio Northern University (ONU), August 2019 - May 2023**
   - _**Relevant Coursework:**_
     - **Computer Security:** Covered cryptographic principles, CIA triad, and threat modeling.
     - **Networks and Data Communication:** Studied network protocols, security, and wireless communication.
@@ -123,7 +123,8 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
     - **Foundations of Design:** Applied engineering theory to solve real-world problems through project work.
     - **Computer Architecture:** Studied the design, function, and optimization of computer systems.
 
-- **[Additional Degrees or Certifications]**
+- **Associate of Science in Electro-Mechanical Engineering Technology**
+  - **Zane Stae College (ZSC), August 2017 - May 2019**
 
 ---
 
