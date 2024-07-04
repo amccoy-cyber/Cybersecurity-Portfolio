@@ -95,32 +95,30 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 
 ## 📂 Projects
 
-### [Project Title 1]
-- **Description:** Brief overview of the project, its objectives, and your role.
-- **Technologies Used:** [List of technologies, tools, and languages used]
+### Home Network Scanning with Raspberry Pi and Nessus Essentials
+- **Description:** Implemented a project to conduct basic vulnerability scans on my home network using a Raspberry Pi and Nessus Essentials. The objective was to perform thorough vulnerability assessments to identify potential security risks and vulnerabilities.
+- **Technologies Used:** Raspberry Pi, Nessus Essentials, Linux
 - **Key Achievements:**
-  - [Achievement 1]
-  - [Achievement 2]
-  - [Achievement 3]
-- **Link to Project:** [GitHub Repository/Live Demo/Documentation]
+  - Configured Raspberry Pi as a scanning appliance to perform scheduled vulnerability scans.
+  - Integrated Nessus Essentials to conduct detailed vulnerability assessments on network devices and services.
+- **Link to Project:** [Cyber Security Projects - Vulnerability Scanner (HACKING made EASY)](https://www.youtube.com/watch?v=wjEavtWTeu8&ab_channel=JonGood)
 
-### [Project Title 2]
-- **Description:** Brief overview of the project, its objectives, and your role.
-- **Technologies Used:** [List of technologies, tools, and languages used]
+### Pi-hole Implementation for Home Network DNS Configuration
+- **Description:** Implemented Pi-hole on a Raspberry Pi to configure a customized DNS server for my home network. The project aimed to enhance network security and privacy by blocking ads, trackers, and malware domains at the DNS level.
+- **Technologies Used:** Raspberry Pi, Pi-hole, Linux
 - **Key Achievements:**
-  - [Achievement 1]
-  - [Achievement 2]
-  - [Achievement 3]
-- **Link to Project:** [GitHub Repository/Live Demo/Documentation]
+  - Installed and configured Pi-hole software on Raspberry Pi for DNS management.
+  - Customized DNS settings to block ads, trackers, and malicious domains network-wide.
+  - Configured hostnames for all devices using /etc/hosts to simplify network management and enhance DNS resolution.
+- **Link to Project:** [World's Greatest Pi-hole Tutorial - Easy Raspberry Pi Project!](https://www.youtube.com/watch?v=cE21YjuaB6o&ab_channel=CrosstalkSolutions)
 
-### [Any Additional Projects]
-- **Description:** Brief overview of the project, its objectives, and your role.
-- **Technologies Used:** [List of technologies, tools, and languages used]
+### Capture The Flag (CTF) Challenges on TryHackMe
+- **Description:** Engaged in various CTF challenges on TryHackMe to enhance practical skills in cybersecurity. Challenges included exploiting vulnerabilities, decrypting codes, and gaining hands-on experience in penetration testing techniques.
 - **Key Achievements:**
-  - [Achievement 1]
-  - [Achievement 2]
-  - [Achievement 3]
-- **Link to Project:** [GitHub Repository/Live Demo/Documentation]
+  - Successfully completed multiple CTF challenges covering a range of cybersecurity topics.
+  - Applied knowledge of networking, cryptography, and web security to solve challenges.
+  - Improved problem-solving skills and critical thinking in real-world scenarios.
+- **Link to Profile:** [TryHackMe Profile](https://tryhackme.com/p/mccoygolfer](https://tryhackme.com/p/amccoycyber))
 
 ---
 
