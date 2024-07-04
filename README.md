@@ -111,8 +111,8 @@ Hello! I'm [Your Name], a cybersecurity professional specializing in Governance,
 
 ## 📚 Education
 
-- **[Degree Title]** in [Field of Study]
-  - [University Name], [Graduation Year]
+- **[Bachelor of Science (B.S.) in Computer Engineering]**
+  - [Ohio Northern University], [2023]
   - [Relevant coursework or projects if applicable]
 
 - **[Additional Degrees or Certifications]**
