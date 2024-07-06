@@ -90,6 +90,9 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
   - BitSight
   - OneTrust
   - AWS
+  - OSINT
+  - Linux
+  - ChatGPT
   - Datadog
 
 ---
