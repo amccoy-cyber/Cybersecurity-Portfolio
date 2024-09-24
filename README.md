@@ -160,7 +160,12 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
   - **[ISC2 Certified in Cybersecurity Course](https://www.isc2.org/certifications/cc)**
       - I completed training for ISC2's Certified in Cybersecurity (CC) certification, which served as a valuable stepping stone in my cybersecurity career. This program provided foundational skills in risk management, incident response, and compliance frameworks tailored for consulting roles. It equipped me with practical strategies to assess and implement cybersecurity solutions effectively, preparing me to contribute meaningfully in diverse cybersecurity environments.
       - **Completed:** September 2023
+   
+- **Conferences & Events:**
 
+  - **[DEFCON 32](https://defcon.org/)**
+    - I had the opportunity to attend DEFCON 32 in Las Vegas, the world’s largest and most notable hacker conference. This immersive experience provided valuable insights into cutting-edge cybersecurity trends, threats, and defense mechanisms from experts across the globe. From hands-on workshops to thought-provoking talks, I engaged with the latest developments in areas such as penetration testing, AI in security, and vulnerability research. This experience has enhanced my practical understanding of real-world cybersecurity challenges and solutions. 
+    - **Attended:** August 2024
 
 ---
 
