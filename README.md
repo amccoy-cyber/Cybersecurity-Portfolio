@@ -148,10 +148,14 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 ## 📈 Continuous Learning
 
 - **Current Courses & Learning:**
-  - **[CompTIA Security+ Certification Course SY0-701 - Udemy](https://www.udemy.com/course/total-comptia-security-plus/)**
-    - I'm currently enrolled in the TOTAL: CompTIA Security+ Certification course offered by Total Seminars. Led by experts Mike Meyers, Dan Lachance, and Lyndon Williams, this training prepares me for the updated CompTIA Security+ (SY0-701) exam. Covering topics like authentication, cryptography, and risk management, I'm gaining essential skills for entry-level cybersecurity roles and certification success.
+  - **[CrowdStrike Falcon Administrator Course](https://www.crowdstrike.com/services/training/falcon-administrator/)**
+    - I'm currently enrolled in the CrowdStrike Falcon Administrator course, which provides in-depth training on the CrowdStrike Falcon platform. This course focuses on endpoint protection, threat intelligence, and incident response, equipping me with the knowledge to effectively manage and secure endpoints using CrowdStrike’s cutting-edge technology.
 
 - **Recent Training:**
+
+  - **[CompTIA Security+ Certification Course SY0-701 - Udemy](https://www.udemy.com/course/total-comptia-security-plus/)**
+    - I completed the TOTAL: CompTIA Security+ Certification course offered by Total Seminars in August 2024. Led by experts Mike Meyers, Dan Lachance, and Lyndon Williams, this training prepared me for the updated CompTIA Security+ (SY0-701) exam. Covering topics like authentication, cryptography, and risk management, I gained essential skills for entry-level cybersecurity roles and certification success.
+    - **Completed:** August 2024
 
   - **[A Cloud Guru's AWS Certified Cloud Practitioner Training](https://learn.acloud.guru/course/aws--certified-cloud-practitioner/dashboard)**
     - I completed the AWS Certified Cloud Practitioner (CCP) training course with Cloud Guru. This comprehensive program provided a solid foundation in cloud computing essentials, including AWS services, pricing models, and architectural principles. It equipped me with practical knowledge to navigate AWS environments effectively and understand cloud concepts crucial for today's IT landscape.
