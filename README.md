@@ -182,8 +182,8 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 - **Conferences & Events:**
 
  - **University Alumni Panel Speaker**
-   - **Event**: ECCS Orientation Class | [University Name]
-   - **Date**: October 2024
+   - **Event**: ECCS Orientation Class | Ohio Northern University
+   - **Date**: November 2024
    - I had the privilege of participating in an alumni panel for the ECCS orientation class at my alma mater. This experience allowed me to share insights from my career in cybersecurity, discuss challenges in the field, and offer advice to the next generation of students entering the industry.
 
   - **[DEFCON 32](https://defcon.org/)**
