@@ -181,10 +181,10 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
    
 - **Conferences & Events:**
 
- - **University Alumni Panel Speaker**
-   - **Event**: ECCS Orientation Class | Ohio Northern University
-   - **Date**: November 2024
-   - I had the privilege of participating in an alumni panel for the ECCS orientation class at my alma mater. This experience allowed me to share insights from my career in cybersecurity, discuss challenges in the field, and offer advice to the next generation of students entering the industry.
+  - **University Alumni Panel Speaker**
+    - **Event**: ECCS Orientation Class | Ohio Northern University
+    - **Date**: November 2024
+    - I had the privilege of participating in an alumni panel for the ECCS orientation class at my alma mater. This experience allowed me to share insights from my career in cybersecurity, discuss challenges in the field, and offer advice to the next generation of students entering the industry.
 
   - **[DEFCON 32](https://defcon.org/)**
     - I had the opportunity to attend DEFCON 32 in Las Vegas, the world’s largest and most notable hacker conference. This immersive experience provided valuable insights into cutting-edge cybersecurity trends, threats, and defense mechanisms from experts across the globe. From hands-on workshops to thought-provoking talks, I engaged with the latest developments in areas such as penetration testing, AI in security, and vulnerability research. This experience has enhanced my practical understanding of real-world cybersecurity challenges and solutions. 
