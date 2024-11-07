@@ -162,7 +162,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 
 - **Recent Training:**
 
-    - **[TryHackMe Cyber Security 101 Learning Path](https://tryhackme.com/)**
+  - **[TryHackMe Cyber Security 101 Learning Path](https://tryhackme.com/)**
     - I completed the Cyber Security 101 learning path on TryHackMe, which covered essential topics in network security, threat intelligence, system vulnerabilities, and practical labs simulating real-world scenarios. This training reinforced my foundational cybersecurity knowledge and provided hands-on practice in key areas to strengthen my grasp of critical concepts.
     - **Completed:** October 2024
 
