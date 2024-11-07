@@ -153,6 +153,11 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 
 - **Recent Training:**
 
+    - **[TryHackMe Cyber Security 101 Learning Path](https://tryhackme.com/)**
+    - I completed the Cyber Security 101 learning path on TryHackMe, which covered essential topics in network security, threat intelligence, system vulnerabilities, and practical labs simulating real-world scenarios. This training reinforced my foundational cybersecurity knowledge and provided hands-on practice in key areas to strengthen my grasp of critical concepts.
+    - **Completed:** October 2024
+
+
   - **[CompTIA Security+ Certification Course SY0-701 - Udemy](https://www.udemy.com/course/total-comptia-security-plus/)**
     - I completed the TOTAL: CompTIA Security+ Certification course offered by Total Seminars in August 2024. Led by experts Mike Meyers, Dan Lachance, and Lyndon Williams, this training prepared me for the updated CompTIA Security+ (SY0-701) exam. Covering topics like authentication, cryptography, and risk management, I gained essential skills for entry-level cybersecurity roles and certification success.
     - **Completed:** August 2024
