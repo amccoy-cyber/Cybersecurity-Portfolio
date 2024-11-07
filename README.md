@@ -12,6 +12,15 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 
 ## 🎓 Certifications
 
+- **CompTIA Security+ (SY0-701)**
+  - **Issued**: October 2024 | [https://www.comptia.org/certifications/security]
+  - **Skills:** 
+    - Network security and risk management
+    - Threat detection and mitigation
+    - Cryptography, authentication, and access control
+    - Incident response and governance, risk, and compliance (GRC) frameworks
+
+
 - **ISC² Certified in Cybersecurity (CC)**
   - **Issued**: March 2024 | [https://www.isc2.org/certifications/cc]
   - **Skills:** 
