@@ -125,7 +125,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
   - Configured hostnames for all devices using /etc/hosts to simplify network management and enhance DNS resolution.
 - **Link to Project:** [World's Greatest Pi-hole Tutorial - Easy Raspberry Pi Project!](https://www.youtube.com/watch?v=cE21YjuaB6o&ab_channel=CrosstalkSolutions)
 
-### Capture The Flag (CTF) Challenges on TryHackMe [Top 11%]
+### Capture The Flag (CTF) Challenges on TryHackMe [Top 5%]
 - **Description:** Engaged in various CTF challenges on TryHackMe to enhance practical skills in cybersecurity. Challenges included exploiting vulnerabilities, decrypting codes, and gaining hands-on experience in penetration testing techniques.
 - **Key Achievements:**
   - Successfully completed multiple CTF challenges covering a range of cybersecurity topics.
