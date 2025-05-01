@@ -6,7 +6,10 @@ Welcome to my cybersecurity portfolio! Here you'll find an overview of my profes
 
 ## 📖 About Me
 
-I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk, and Compliance (GRC)**. My cybersecurity journey is driven by a profound passion for safeguarding digital assets and establishing robust security frameworks. Over the years, I have cultivated a versatile skillset encompassing **vulnerability management, third-party risk management, and incident response**, complemented by a diverse array of certifications and hands-on experiences.
+I am a passionate and driven **Cybersecurity Analyst** currently immersed in **Cybersecurity Operations**, with a strong focus on **Incident Response** and **Threat Detection**. My journey in cybersecurity has been shaped by a diverse foundation, starting with **Third-Party Risk Management** and **Vulnerability Management**, which provided me with a well-rounded understanding of the broader security landscape. This diverse experience enables me to approach cybersecurity challenges from multiple angles, ensuring comprehensive and effective protection of critical assets.
+
+In my current role, I apply my technical skills in **SIEM analysis**, **SOAR automation**, **incident response**, and **threat hunting** to defend against and mitigate sophisticated threats. I am deeply committed to continually growing and refining my expertise, contributing to the success of a team that values excellence and strives to stay ahead of emerging risks.
+
 
 ---
 
