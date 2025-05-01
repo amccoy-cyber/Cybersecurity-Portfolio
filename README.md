@@ -194,7 +194,7 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
 
 - **Recent Training:**
 
-- **[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/path/outline/soclevel1)**
+  - **[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/path/outline/soclevel1)**
     - I completed the SOC Level 1 learning path on TryHackMe, which focused on core blue team disciplines such as log analysis, SIEM investigation, threat intelligence, and alert triage. The path provided hands-on labs and realistic scenarios that helped strengthen my incident response skills and sharpen my ability to detect and analyze threats in a SOC environment.
     - **Completed:** February 2025
 
