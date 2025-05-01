@@ -1,6 +1,6 @@
 # 🛡️ Austin's Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! Here you'll find an overview of my professional background, projects, and certifications. I'm passionate about vulnerability and risk management, cybersecurity operations, and continuous learning in the field.
+Welcome to my cybersecurity portfolio! Here, you'll find an overview of my professional experience, projects, and certifications. I specialize in **Cybersecurity Operations**, with a strong focus on **incident response**, **threat detection**, and **SIEM analysis**. Passionate about continuously improving my technical skills, I am committed to defending digital environments and contributing to the success of high-performing cybersecurity teams. 
 
 ---
 
