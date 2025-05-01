@@ -21,7 +21,7 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
     - Incident response and governance, risk, and compliance (GRC) frameworks
 
 - **TryHackMe SOC Level 1 Learning Path**
-  - **Issued**: February 2025 | [https://tryhackme.com/paths/soc-level-1]
+  - **Issued**: February 2025 | [https://tryhackme.com/path/outline/soclevel1]
   - **Skills:**
     - Log analysis and SIEM investigation
     - Threat detection and alert triage
@@ -189,11 +189,11 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 
 - **Recent Training:**
 
-- **[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/paths/soc-level-1)**
+- **[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/path/outline/soclevel1)**
     - I completed the SOC Level 1 learning path on TryHackMe, which focused on core blue team disciplines such as log analysis, SIEM investigation, threat intelligence, and alert triage. The path provided hands-on labs and realistic scenarios that helped strengthen my incident response skills and sharpen my ability to detect and analyze threats in a SOC environment.
     - **Completed:** February 2025
 
-  - **[TryHackMe Cyber Security 101 Learning Path](https://tryhackme.com/)**
+  - **[TryHackMe Cyber Security 101 Learning Path](https://tryhackme.com/path/outline/cybersecurity101)**
     - I completed the Cyber Security 101 learning path on TryHackMe, which covered essential topics in network security, threat intelligence, system vulnerabilities, and practical labs simulating real-world scenarios. This training reinforced my foundational cybersecurity knowledge and provided hands-on practice in key areas to strengthen my grasp of critical concepts.
     - **Completed:** October 2024
 
