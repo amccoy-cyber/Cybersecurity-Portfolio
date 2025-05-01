@@ -20,6 +20,13 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
     - Cryptography, authentication, and access control
     - Incident response and governance, risk, and compliance (GRC) frameworks
 
+- **TryHackMe SOC Level 1 Learning Path**
+  - **Issued**: February 2025 | [https://tryhackme.com/paths/soc-level-1]
+  - **Skills:**
+    - Log analysis and SIEM investigation
+    - Threat detection and alert triage
+    - Incident response fundamentals
+    - Hands-on practice in real-world SOC scenarios
 
 - **ISC² Certified in Cybersecurity (CC)**
   - **Issued**: March 2024 | [https://www.isc2.org/certifications/cc]
