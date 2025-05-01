@@ -92,12 +92,14 @@ I am a dedicated Cybersecurity Analyst with a strong focus on **Governance, Risk
 ## 🛠️ Skills
 
 - **Technical Skills:**
+  - Incident Response and Analysis (SIEM, SOAR)
+  - Threat Detection and Tuning (CrowdStrike/LogScale, Splunk)
   - Vulnerability Management
-  - Risk Analysis
-  - Risk Management
-  - Cloud Security (AWS)
+  - Risk Analysis and Management
+  - Cloud Security (AWS, Azure)
   - Scripting and Automation (Python, Bash)
-  - Network Security
+  - Network Security (Firewalls, IDS/IPS, VPNs)
+  - Digital Forensics and Threat Hunting
  
 - **Soft Skills**
   - Collaboration
