@@ -159,8 +159,6 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
   - Applied knowledge of networking, cryptography, and web security to solve challenges.
   - Improved problem-solving skills and critical thinking in real-world scenarios.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/amccoy.1.png)](https://tryhackme.com/p/amccoy.1)
-
 
 ---
 
