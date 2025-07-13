@@ -24,7 +24,7 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
     - Incident response and governance, risk, and compliance (GRC) frameworks
    
 - **Blue Team Level 1 (BTL1)**
-  - **Issued**: July 2025 | [https://securityblue.team/certifications/blue-team-level-1-certification/]
+  - **Issued**: July 2025 | [https://www.securityblue.team/certifications/blue-team-level-1]
   - **Skills:**
     - Security monitoring and log analysis using SIEM tools (e.g., Splunk)
     - Network and endpoint forensics (e.g., Wireshark, Autopsy)
