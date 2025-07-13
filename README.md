@@ -128,6 +128,11 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
   - Proofpoint
   - AWS
   - OSINT
+  - Autopsy
+  - Splunk
+  - LogScale
+  - Wireshark
+  - Volatility
   - Datadog
   - Jira
   - Linux
