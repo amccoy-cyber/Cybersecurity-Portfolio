@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! Explore my professional experience, proje
 
 ## 📖 About Me
 
-I am a passionate and driven **Cybersecurity Analyst** currently immersed in **Cybersecurity Operations**, with a strong focus on **Incident Response** and **Threat Detection**. My journey in cybersecurity has been shaped by a diverse foundation, starting with **Third-Party Risk Management** and **Vulnerability Management**, which provided me with a well-rounded understanding of the broader security landscape. This diverse experience enables me to approach cybersecurity challenges from multiple angles, ensuring comprehensive and effective protection of critical assets.
+I am a passionate and driven **Cybersecurity Engineer** currently immersed in **Cybersecurity Operations**, with a strong focus on **Incident Response** and **Threat Detection**. My journey in cybersecurity has been shaped by a diverse foundation, starting with **Third-Party Risk Management** and **Vulnerability Management**, which provided me with a well-rounded understanding of the broader security landscape. This diverse experience enables me to approach cybersecurity challenges from multiple angles, ensuring comprehensive and effective protection of critical assets.
 
 In my current role, I apply my technical skills in **SIEM analysis**, **SOAR automation**, **incident response**, and **threat hunting** to defend against and mitigate sophisticated threats. I am deeply committed to continually growing and refining my expertise, contributing to the success of a team that values excellence and strives to stay ahead of emerging risks.
 
@@ -22,6 +22,15 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
     - Threat detection and mitigation
     - Cryptography, authentication, and access control
     - Incident response and governance, risk, and compliance (GRC) frameworks
+   
+- **Blue Team Level 1 (BTL1)**
+  - **Issued**: July 2025 | [https://securityblue.team/certifications/blue-team-level-1-certification/]
+  - **Skills:**
+    - Security monitoring and log analysis using SIEM tools (e.g., Splunk)
+    - Network and endpoint forensics (e.g., Wireshark, Autopsy)
+    - Threat hunting and detection engineering
+    - Incident response methodology and reporting
+    - Windows internals and malware investigation
 
 - **TryHackMe SOC Level 1 Learning Path**
   - **Issued**: February 2025 | [https://tryhackme.com/path/outline/soclevel1]
@@ -51,7 +60,7 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
 
 ## 💼 Professional Experience
 
-### Cybersecurity Analyst | NetJets  
+### Cybersecurity Engineer | NetJets  
 *February, 2025 – Present*
 
 - **Role:** As a member of the Cybersecurity Operations team, I lead incident response efforts, investigating alerts and threats with a focus on speed, accuracy, and resilience. I work closely with SIEM and SOAR platforms to automate response actions, reduce noise, and strengthen detection capabilities.
@@ -187,11 +196,11 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
 - **Current Courses & Learning:**
   - **[CrowdStrike Falcon Administrator Course](https://www.crowdstrike.com/services/training/falcon-administrator/)**
     - I'm currently enrolled in the CrowdStrike Falcon Administrator course, which provides in-depth training on the CrowdStrike Falcon platform. This course focuses on endpoint protection, threat intelligence, and incident response, equipping me with the knowledge to effectively manage and secure endpoints using CrowdStrike’s cutting-edge technology.
-   
-  - **[Blue Team Level 1](https://securityblue.team/why-btl1/)**
-    - I'm currently enrolled in the Blue Team Level 1 certification, a hands-on, practical program designed to build and validate foundational defensive cybersecurity skills. The course covers areas such as SIEM analysis, threat hunting, digital forensics, and incident response, preparing me to operate effectively in real-world SOC environments while also giving me the opportunity to actively practice these skills in simulated scenarios.
 
 - **Recent Training:**
+
+  - **[Blue Team Level 1](https://securityblue.team/why-btl1/)**
+    - I'm currently enrolled in the Blue Team Level 1 certification, a hands-on, practical program designed to build and validate foundational defensive cybersecurity skills. The course covers areas such as SIEM analysis, threat hunting, digital forensics, and incident response, preparing me to operate effectively in real-world SOC environments while also giving me the opportunity to actively practice these skills in simulated scenarios.
 
   - **[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/path/outline/soclevel1)**
     - I completed the SOC Level 1 learning path on TryHackMe, which focused on core blue team disciplines such as log analysis, SIEM investigation, threat intelligence, and alert triage. The path provided hands-on labs and realistic scenarios that helped strengthen my incident response skills and sharpen my ability to detect and analyze threats in a SOC environment.
