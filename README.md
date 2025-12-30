@@ -16,15 +16,15 @@ In my current role, I apply my technical skills in **SIEM analysis**, **SOAR aut
 ## 🎓 Certifications
 
 - **CompTIA Security+ (SY0-701)**
-  - **Issued**: October 2024 | [https://my.ine.com/certifications/]
+  - **Issued**: October 2024 | [https://www.comptia.org/en-us/certifications/security/]
   - **Skills:** 
     - Network security and risk management
     - Threat detection and mitigation
     - Cryptography, authentication, and access control
     - Incident response and governance, risk, and compliance (GRC) frameworks
    
-- **eLearnSecurity Junior Penetration Tester (eJPT)**
-  - **Issued**: December 2025 | [https://ine.com/learning/certifications/internal/ejpt]
+- **Junior Penetration Tester (eJPT)**
+  - **Issued**: December 2025 | [https://my.ine.com/certifications/]
   - **Skills:** 
     - Network and application penetration testing fundamentals
     - Host and network enumeration (active and passive)
